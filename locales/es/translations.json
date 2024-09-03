@@ -1,0 +1,13 @@
+{
+  "orderDetail": {
+    "title": "Detalle de la orden",
+    "btnDownload": "Descargar detalle"
+  },
+  "general": {
+    "errorGeneric": {
+      "title": "No pudimos {{ status }} la información",
+      "summary": "Tenemos un problema en nuestro sistema y lo estamos solucionando. Por favor, volvé a intentarlo más tarde. Te pedimos disculpas.",
+      "btnText": "Recargar"
+    }
+  }
+}
