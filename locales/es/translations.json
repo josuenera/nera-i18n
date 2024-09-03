@@ -1,5 +1,6 @@
 {
   "orderDetail": {
+    "test": "Esto es una prueba",
     "title": "Detalle de la orden",
     "btnDownload": "Descargar detalle"
   },
